@@ -7,9 +7,9 @@ In order to use the boilerplate you will need NodeJS to be installed on your sys
 - Step 1: Git clone the application
 
 ```
-$ git clone https://github.com/mjhobbs/sit722week03.git
+$ git clone https://github.com/mjhobbs/sit722week02.git
 
-$ cd sit722week03
+$ cd sit722week02
 ```
 
 - Step 2: Install node modules
@@ -91,7 +91,7 @@ git pull
 git checkout branch-type/branch-name (such as feature/feature-name or hotfix/hotfix-name)
 ```
 
-- Merge last changes from other people and start your work
+- Merge the last changes from other people and start your work
 
 ```
 git merge development
